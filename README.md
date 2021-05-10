@@ -1,6 +1,6 @@
 # VMware CPUID tool
 
-Tool that converts CPUID data from the cpuid tool (http://www.etallen.com/cpuid.html) into
+Tool that converts CPUID data from the `cpuid` tool (http://www.etallen.com/cpuid.html) into
 the VMWare .vmx format.
 
 This can be useful for spoofing a particular CPU on the virtual machine.
