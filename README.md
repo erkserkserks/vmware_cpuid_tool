@@ -19,4 +19,4 @@ MIT
 
 [Mac OS X 10.4 Tiger on a Modern Intel Mac (Virtualization)](https://forums.macrumors.com/threads/mac-os-x-10-4-tiger-on-a-modern-intel-mac-virtualization.2162582/)
 
-[How to fake a VMs guest OS CPUID](http://vknowledge.net/2014/04/17/how-to-fake-a-vms-guest-os-cpuid/)
+[How to fake a VMs guest OS CPUID](https://web.archive.org/web/20220924202501/http://vknowledge.net/2014/04/17/how-to-fake-a-vms-guest-os-cpuid/)
